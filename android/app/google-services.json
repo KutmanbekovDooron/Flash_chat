@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736245755623",
+    "project_id": "flash-chat-e8759",
+    "storage_bucket": "flash-chat-e8759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736245755623:android:cd0a6caa97db17de407c42",
+        "android_client_info": {
+          "package_name": "co.DooronU.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736245755623-dic7puqnp9gqa0ebvg7lodqq4f7v10sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjc3WXqzHthFiQsqhbvk17XNm1Jh8eHZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736245755623-dic7puqnp9gqa0ebvg7lodqq4f7v10sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
